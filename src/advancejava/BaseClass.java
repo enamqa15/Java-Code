@@ -19,4 +19,9 @@ class TestCar {
         Vehicle b = new Car (); // Vehicle reference but Car object
         b.move (); //Calls the method in Car class
     }
-}
+    class TestBmw {
+        public void main (String args []){
+            Vehicle b = new Car (); // Vehicle reference but Car object
+            b.move (); //Calls the method in Car class
+        }
+}}

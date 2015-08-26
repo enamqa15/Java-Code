@@ -16,6 +16,7 @@ package advancejava;
 	public static void main(String[] args) {
 		
 Corola x = new Corola();
+//x.Corola();
 	}
 
 }
